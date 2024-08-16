@@ -9,10 +9,10 @@ class Settings {
         $this->host = 'localhost';
         $this->port = 3306;
 
-        $this->database = 'litebans';
+        $this->database = 's18261_litebans';
 
-        $this->username = '';
-        $this->password = '';
+        $this->username = 'u18261_Z83yyoPMcb';
+        $this->password = 'h4c8@wLMWRX^2^9HyA5HpVo';
 
         // If you set a table prefix in config.yml, set it here as well
         $this->table_prefix = "litebans_";
