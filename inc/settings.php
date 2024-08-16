@@ -18,7 +18,7 @@ class Settings {
         $this->table_prefix = "litebans_";
 
         // Supported drivers: mysql, mariadb, pgsql
-        $this->driver = 'mysql';
+        $this->driver = 'mariadb';
 
         // Server name, shown on the main page and on the header
         $this->name = 'LiteBans';
